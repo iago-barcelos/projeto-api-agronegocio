@@ -1,1 +1,1 @@
-![Java Spring Boot Banner](images/java-banner.jfif)
+![Java Spring Boot Banner](images/banner.jfif)
